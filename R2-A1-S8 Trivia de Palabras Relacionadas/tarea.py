@@ -45,3 +45,4 @@ class ListaSimple:
             while actual is not None:
                 print(actual.cliente)
                 actual = actual.siguiente
+
